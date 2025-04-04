@@ -4,4 +4,4 @@
 * juicy lime
 * salt
 ## Instructions
-yes of course
+* put one avocado into a bowl
