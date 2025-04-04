@@ -1,6 +1,7 @@
 # Guacamole
 ## Ingredients
-* avocado
-* lime
+* big avocado
+* juicy lime
 * salt
 ## Instructions
+yes of course
