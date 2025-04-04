@@ -1,8 +1,8 @@
 # Hummus
 ## Ingredients
 * chickpeas
-* lemon
+* lime
 * olive oil
 * salt
 ## Instructions
-take the chickpeas !
+take the chickpeas ! 
