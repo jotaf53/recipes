@@ -4,4 +4,4 @@
 * juicy lime
 * salt
 ## Instructions
-yes of course
+* peel the avocados
