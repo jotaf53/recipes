@@ -1,9 +1,11 @@
 # Guacamole
 ## Ingredients
-* big avocado
+* big avocados
 * juicy lime
 * salt
 ## Instructions
 * peel the avocados
 * put one avocado into a bowl
-* add salt
+* put second avocado into another bowl
+* add salt to both mixture
+
