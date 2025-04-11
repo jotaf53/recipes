@@ -1,5 +1,5 @@
-## Lasagna
-# Ingredients
+# Lasagna
+## Ingredients
 * pasta
 * tomato sauce
 * meat beef/pork
@@ -11,5 +11,5 @@
 * flour
 * cheese
 * spices
-# Instructions
+## Instructions
 bla bla bla
