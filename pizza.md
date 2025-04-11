@@ -1,4 +1,4 @@
-#Pizza receipt
+# Pizza
 ## Ingredients
 * egg
 * flour
