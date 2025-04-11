@@ -1,5 +1,5 @@
-## Lasagna
-# Ingredients
+# Lasagna
+## Ingredients
 * pasta for lasagna
 * tomatoes
 * carrots
@@ -10,5 +10,5 @@
 * flour
 * cheese
 * spices
-# Ingredients
+## Ingredients
 bla bla bla bla
