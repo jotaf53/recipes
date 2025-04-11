@@ -1,4 +1,5 @@
-# Ingredients
+#Pizza receipt
+## Ingredients
 * egg
 * flour
 * water
